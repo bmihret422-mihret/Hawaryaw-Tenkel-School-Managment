@@ -1,0 +1,31 @@
+{
+  "name": "school-managment-system",
+  "version": "1.0.0",
+  "description": "Enterprise Grade School Management System built with Node.js, Express, Oracle DB XE, HTML5, CSS3, and JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "setup-db": "node scripts/setup-db.js",
+    "seed": "node scripts/seed-data.js"
+  },
+  "keywords": [
+    "school-management",
+    "oracle",
+    "oracledb",
+    "express",
+    "nodejs",
+    "education"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "morgan": "^1.10.1",
+    "oracledb": "^26.0.0"
+  }
+}
