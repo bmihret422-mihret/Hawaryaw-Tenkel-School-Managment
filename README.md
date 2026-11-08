@@ -21,9 +21,10 @@ This project aims to help schools manage their academic and administrative activ
 - CSS
 - JavaScript
 
-## Project Screenshots
+### Project Feature
+![project feature](image/project feature.png)
 
-Add screenshots of your application here.
+
 
 ## Installation
 
@@ -31,9 +32,8 @@ Add screenshots of your application here.
 
    git clone https://github.com/bmihret422-mihret/Hawaryaw-Tenkel-School-Managment.git
 
-2. Open the project folder.
 
-3. Open index.html in your browser.
+
 
 ## Project Demo
 http://hawaryawtenkelschool.com
