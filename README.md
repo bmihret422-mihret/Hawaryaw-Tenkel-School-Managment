@@ -150,4 +150,5 @@ school-managment/
 - **`FEES`**: Invoices for tuition, laboratory, sports, etc., tracking billed amount, paid amount, payment date, method, and reference.
 - **`ANNOUNCEMENTS`**: Campus noticeboard memos with audience targeting and priority tiers (`URGENT`, `HIGH`, `NORMAL`).
 #   H a w a r y a w - T e n k e l - S c h o o l - M a n a g m e n t  
+ #   H a w a r y a w - T e n k e l - S c h o o l - M a n a g m e n t  
  
