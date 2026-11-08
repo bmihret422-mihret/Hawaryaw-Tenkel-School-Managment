@@ -13,6 +13,11 @@ This project aims to help schools manage their academic and administrative activ
 - Student Registration
 - Department Management
 - Dashboard
+- Grade
+- Fees
+- Input in/out check
+- Attendance
+
 - Search and Update Records
 
 ## Technologies Used
@@ -20,6 +25,11 @@ This project aims to help schools manage their academic and administrative activ
 - HTML
 - CSS
 - JavaScript
+- node.js
+- express.js
+- oracledb
+- API REST
+
 
 ### Project Feature
 ![project feature](image/project feature.png)
