@@ -36,8 +36,7 @@ Add screenshots of your application here.
 3. Open index.html in your browser.
 
 ## Project Demo
-
-Live Demo: Add your deployed website link here.
+http://hawaryawtenkelschool.com
 
 ## Developer
 
