@@ -30,11 +30,9 @@ This project aims to help schools manage their academic and administrative activ
 - oracledb
 - API REST
 
-
 ### Project Feature
+
 ![project feature](image/project feature.png)
-
-
 
 ## Installation
 
@@ -42,10 +40,8 @@ This project aims to help schools manage their academic and administrative activ
 
    git clone https://github.com/bmihret422-mihret/Hawaryaw-Tenkel-School-Managment.git
 
-
-
-
 ## Project Demo
+
 http://hawaryawtenkelschool.com
 
 ## Developer
